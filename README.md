@@ -1,3 +1,4 @@
+[![DOI](https://sandbox.zenodo.org/badge/810313004.svg)](https://sandbox.zenodo.org/doi/10.5072/zenodo.68024)
 ## Not so good astronaut data analysis code
 
 This repository contains a helper software project with some code to be used 
